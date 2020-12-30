@@ -20,7 +20,7 @@ bio: My research interests include blockchain technologies, cloud computing and 
 interests:
 - Security
 - Cloud Computing
-- Distribbuted Networking
+- Distributed Networking
 
 # Education to show in About widget
 education:
