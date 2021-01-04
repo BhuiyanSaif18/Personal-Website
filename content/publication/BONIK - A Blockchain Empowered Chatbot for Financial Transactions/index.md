@@ -54,7 +54,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://www.researchgate.net/publication/346017216_BONIK_A_Blockchain_Empowered_Chatbot_for_Financial_Transactions'
-url_code: ''
+url_code: 'https://github.com/saif-lesnar/Bonik'
 url_dataset: ''
 url_poster: ''
 url_project: ''
