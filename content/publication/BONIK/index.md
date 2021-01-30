@@ -23,7 +23,7 @@ authors:
 
 
 date: "2020-12-31T00:00:00Z"
-doi: ""
+doi: "10.1109/TrustCom50675.2020.00143"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-01T00:00:00Z"
@@ -38,7 +38,7 @@ publication_types: ["1"]
 publication: The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications
 publication_short: TrustCom 2020
 
-abstract: A  Chatbot  is  a  popular  platform  to  enable  usersto  interact  with  a  software  or  website  to  gather  information  orexecute actions in an automated fashion. In recent years, chatbotsare being used for executing financial transactions, however, thereare  a  number  of  security  issues,  such  as  secure  authentication,data  integrity,  system  availability  and  transparency,  that  mustbe carefully handled for their wide-scale adoption. Recently, theblockchain technology, with a number of security advantages, hasemerged as one of the foundational technologies with the potentialto  disrupt  a  number  of  application  domains,  particularly  in  thefinancial sector. In this paper, we forward the idea of integratinga  chatbot  with  blockchain  technology  in  the  view  to  improvethe  security  issues  in  financial  chatbots.  More  specifically,  wepresentBONIK,  a  blockchain  empowered  chatbot  for  financialtransactions,  and  discuss  its  architecture  and  design  choices.Furthermore, we explore the developed Proof-of-Concept (PoC),evaluate  its  performance,  analyse  how  different  security  andprivacy  issues  are  mitigated  using  BONIK.
+abstract: A  Chatbot  is  a  popular  platform  to  enable  users to  interact  with  a  software  or  website  to  gather  information  or execute actions in an automated fashion. In recent years, chatbotsare being used for executing financial transactions, however, thereare  a  number  of  security  issues,  such  as  secure  authentication,data  integrity,  system  availability  and  transparency,  that  mustbe carefully handled for their wide-scale adoption. Recently, theblockchain technology, with a number of security advantages, hasemerged as one of the foundational technologies with the potentialto  disrupt  a  number  of  application  domains,  particularly  in  thefinancial sector. In this paper, we forward the idea of integratinga  chatbot  with  blockchain  technology  in  the  view  to  improvethe  security  issues  in  financial  chatbots.  More  specifically,  we present BONIK,  a  blockchain  empowered  chatbot  for  financial transactions,  and  discuss  its  architecture  and  design  choices. Furthermore, we explore the developed Proof-of-Concept (PoC), evaluate  its  performance,  analyse  how  different  security  andprivacy  issues  are  mitigated  using  BONIK.
 
 # Summary. An optional shortened abstract.
 # summary: A chatbot integrated with a blockchain system for a secured financial transational chatbot. 

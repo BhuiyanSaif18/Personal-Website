@@ -24,24 +24,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Software Engineer
+    company: Secure Link Services (SELISE)
+    company_url: 'https://www.selise.ch'
+    location: Dhaka, Bangladesh
+    date_start: '2018-10-22'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        Task & Responsibilities include:
+        * Following Agile development method. 
+        * Working closely with other developers, UX designers, business and systems analysts. 
+        * Working with both the business and development teams to gather and analyze the business requirement. 
+        * Identifying areas for modification in existing programs and subsequently developing these modifications.
+        * Conducting regular brainstorming sessions, breaking the business story into smaller tasks and subtasks. Research, design, implement and manage project.
+        * Integrate software components and third-party libraries.
+        * Writing reusable and implementing efficient code. 
+        * Test and evaluate new programs Maintaining and upgrading existing systems
 ---
