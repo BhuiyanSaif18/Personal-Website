@@ -267,8 +267,8 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = G-KX95FZ417C
-  google_tag_manager = G-KX95FZ417C
+  google_analytics = "G-KX95FZ417C"
+  google_tag_manager = "G-KX95FZ417C"
 
 ############################
 ## Content Management System
