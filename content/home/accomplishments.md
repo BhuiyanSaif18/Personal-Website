@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -13,7 +13,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Certifications'
 subtitle:
 
 # Date format
@@ -26,28 +26,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+- certificate_url: https://github.com/saif-lesnar/Certificates/blob/master/Certificate_G030733_Md.%20Saiful%20Islam%20Bhuiyan.pdf
+  date_end: "2017-12-31"
+  date_start: "2017-06-01"
+  description: "Traning in on Java enterprise edition"
+  organization: Bangladesh Computer Council
+  organization_url: https://bcc.gov.bd/
+  title: IT Training on JAVA under NASSCOM IT-ITES SSC
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+# - certificate_url: https://icpc.global/ICPCID/L5LKBNMD68UF
+#   date_end: ""
+#   date_start: "2015-01-01"
+#   description: ""
+#   organization: ICPC
+#   organization_url: https://icpc.global/
+#   title: ICPCID
+#   url: ""
+- certificate_url: https://www.youracclaim.com/badges/a5e8ce1f-7835-4b5d-a8da-256c1bb05420/linked_in_profile
+  date_end: 
+  date_start: "2018-10-10"
+  description: "An understanding of Blockchain principles and practices and how it can be applied within a business environment. An understanding of Blockchain and distributed ledger systems, the important concepts and key use cases of Blockchain and how assets can be transferred in a Blockchain network."
+  organization: Cognitive Class.ai
+  organization_url: https://cognitiveclass.ai/
+  title: IBM Blockchain Essentials
   url: ""
 ---

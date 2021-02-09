@@ -7,7 +7,7 @@
 
 # Title of your site
 title = "Md. Saiful Islam Bhuiyan"
-
+googleAnalytics = "G-KX95FZ417C"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = ""

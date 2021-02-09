@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 # Activate this widget? true/false
-active: false
+active: true
 # This file represents a page section.
 headless: true
 
@@ -18,17 +18,34 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: angular
+  icon_pack: custom
+  name: Angular
+- description: 80%
+  icon: net_core
+  icon_pack: custom
+  name: Asp Dotnet Core
+- description: 80%
+  icon: csharp
+  icon_pack: custom
+  name: C#
+- description: 80%
+  icon: mongodb
+  icon_pack: custom
+  name: MongoDB
+- description: 80%
+  icon: typescript
+  icon_pack: custom
+  name: Type Script
+- description: 30%
+  icon: docker
+  icon_pack: custom
+  name: Docker
+- description: 20%
+  icon: kubernetes 
+  icon_pack: custom
+  name: Kubernetes
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

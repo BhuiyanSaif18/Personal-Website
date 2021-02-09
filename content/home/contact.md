@@ -3,7 +3,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 # Activate this widget? true/false
-active: false
+active: true
 # This file represents a page section.
 headless: true
 
@@ -21,11 +21,11 @@ content:
   form:
     provider: netlify
     formspree:
-      id:
+      id: xoqpbqnj
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
   
 design:
-  columns: '2'
+  columns: '1'
 ---
