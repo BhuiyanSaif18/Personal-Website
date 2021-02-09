@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 # Activate this widget? true/false
-active: true
+active: false
 # This file represents a page section.
 headless: true
 

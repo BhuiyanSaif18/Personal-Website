@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: blank
+widget: experience
 
 # Activate this widget? true/false
 active: true
@@ -15,31 +15,21 @@ weight: 100
 title: Co-curriculer Activities
 subtitle:
 
-design:
-  columns: "2"
-  # background:
-  #   image: headers/bubbles-wide.jpg
-  #   image_darken: 0.6
-  #   image_parallax: true
-  #   image_position: center
-  #   image_size: cover
-  #   text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+experience:
+  - title: Software Engineer
+    company: Secure Link Services (SELISE)
+    company_url: 'https://www.selise.ch'
+    location: Dhaka, Bangladesh
+    date_start: '2018-10-22'
+    date_end: '2018-10-22'
+    description: |2-
+        Task & Responsibilities include:
+        * Following Agile development method. 
+        * Working closely with other developers, UX designers, business and systems analysts. 
+        * Working with both the business and development teams to gather and analyze the business requirement. 
+        * Identifying areas for modification in existing programs and subsequently developing these modifications.
+        * Conducting regular brainstorming sessions, breaking the business story into smaller tasks and subtasks. Research, design, implement and manage project.
+        * Integrate software components and third-party libraries.
+        * Writing reusable and implementing efficient code. 
+        * Test and evaluate new programs Maintaining and upgrading existing systems
 ---
-**SUST Science Arana** 
-[sad] 
-Welcome to the demo of the **resumé template** for Academic.
-
-[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
-
-**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
-
