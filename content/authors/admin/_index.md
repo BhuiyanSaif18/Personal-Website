@@ -72,7 +72,7 @@ highlight_name: false
 
 Md. Saiful Islam Bhuiyan is a fullstack software engineer at SELISE. 
 He is greatly enthusiastic about Blockchain Technologies, Security, Cloud Computing and Distributed Networking. 
-He is an active member of the SUBSEL group, which  develops application with blockchain technologies.
+He is an active member of the SUBSEL group, which research with security and blockchain technologies.
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
