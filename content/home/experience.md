@@ -40,4 +40,20 @@ experience:
         * Integrate software components and third-party libraries.
         * Writing reusable and implementing efficient code. 
         * Test and evaluate new programs Maintaining and upgrading existing systems
+  - title: Researcher
+    company: Shahjalal University Blockchain & Security Laboratory
+    company_url: https://subsel.org/'
+    location: Sylhet, Bangladesh
+    date_start: '2018-01-01'
+    date_end: ''
+    # description: |2-
+    #     Task & Responsibilities include:
+    #     * Following Agile development method. 
+    #     * Working closely with other developers, UX designers, business and systems analysts. 
+    #     * Working with both the business and development teams to gather and analyze the business requirement. 
+    #     * Identifying areas for modification in existing programs and subsequently developing these modifications.
+    #     * Conducting regular brainstorming sessions, breaking the business story into smaller tasks and subtasks. Research, design, implement and manage project.
+    #     * Integrate software components and third-party libraries.
+    #     * Writing reusable and implementing efficient code. 
+    #     * Test and evaluate new programs Maintaining and upgrading existing systems
 ---
