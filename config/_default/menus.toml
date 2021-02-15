@@ -28,6 +28,10 @@
   url = "#co-curriculer"
   weight = 50
 
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 130
 
 #[[main]]
 #  name = "Posts"
@@ -46,10 +50,6 @@
 
 
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
