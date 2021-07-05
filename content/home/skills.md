@@ -37,7 +37,7 @@ feature:
   icon: typescript
   icon_pack: custom
   name: Type Script
-- description: 30%
+- description: 60%
   icon: docker
   icon_pack: custom
   name: Docker

@@ -10,7 +10,7 @@ role: Fullstack Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: SELISE
+- name: SELISE Digital Platform
   url: https://www.selise.ch
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,9 +18,9 @@ bio: My research interests include blockchain technologies, cloud computing and 
 
 # Interests to show in About widget
 interests:
-- Security
 - Cloud Computing
 - Distributed Networking
+- Security
 
 # Education to show in About widget
 education:
