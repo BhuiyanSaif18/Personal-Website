@@ -37,6 +37,12 @@ feature:
   icon: typescript
   icon_pack: custom
   name: Type Script
+
+- description: 60%
+  icon: fabric-logo 
+  icon_pack: custom
+  name: Hyperledger Fabric
+
 - description: 60%
   icon: docker
   icon_pack: custom
@@ -45,6 +51,7 @@ feature:
   icon: kubernetes 
   icon_pack: custom
   name: Kubernetes
+
 
 
 # Uncomment to use emoji icons.
