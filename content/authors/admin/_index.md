@@ -6,7 +6,7 @@ title: Md. Saiful Islam Bhuiyan
 superuser: true
 
 # Role/position/tagline
-role: Fullstack Software Engineer
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -52,10 +52,10 @@ social:
   link: https://scholar.google.com/citations?user=j_xQPbkAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/saif-lesnar
+  link: https://github.com/BhuiyanSaif18
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/saif-sust-cse-2013/
+  link: https://www.linkedin.com/in/bhuiyansaif18/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
