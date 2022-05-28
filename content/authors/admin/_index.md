@@ -14,14 +14,14 @@ organizations:
   url: https://www.selise.ch
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include blockchain technologies, cloud computing and distributed networking.
+bio: My research interests include blockchain technologies and cloud computing.
 
 # Interests to show in About widget
 interests:
 - Cloud Computing
-- Distributed System
+- Backend Developement
+- Full-stack Developement
 - Blockchain Technologies
-- Machine Learning
 
 # Education to show in About widget
 education:
@@ -71,9 +71,7 @@ email: "saif_lesnar@outlook.com"
 highlight_name: false
 ---
 
-Md. Saiful Islam Bhuiyan is working as a fullstack software engineer at SELISE Digital Platform. He is also working as a research assistant under supervision of Dr. Sadek Ferdous.
-He is greatly enthusiastic about Cloud Computing and Distributed Systems, Blockchain Technologies and Machine Learning. 
-He is a researcher at SUBSEL (Shahjalal University Blockchain and Security Laboratory). This group conduct research with security and blockchain technologies under supervision of Dr. Sadek Ferdous.
+Saif is a software engineer with nearly four years of industry experience. He expertises in writing back-end applications in ASP.NET Core serving users across fintech services, recreational services, and other industries. However, he also has good professional experience with Angular and Blockchain. Saif is excellent in communications and has thousands of hours behind him in remote projects.
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
