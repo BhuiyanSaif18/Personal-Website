@@ -3,8 +3,7 @@ title: Bonik
 summary: A secured financial transactional chatbot developed in a private blockchain network
 tags:
 - Blockchain
-- Machine Learning
-date: "2016-04-27T00:00:00Z"
+date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -18,7 +17,7 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://github.com/BhuiyanSaif18/Bonik"
 url_pdf: ""
 url_slides: ""
 url_video: ""

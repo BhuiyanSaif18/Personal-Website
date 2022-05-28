@@ -30,8 +30,10 @@ content:
     tag: '*'
   - name: Blockchain
     tag: Blockchain
-  - name: Machine Learning
-    tag: Machine Learning
+  - name: Web Developement
+    tag: Web Developement
+  - name: Template Design
+    tag: Template Design
   - name: Other
     tag: other
 
